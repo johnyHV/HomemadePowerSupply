@@ -1,0 +1,4 @@
+https://www.aliexpress.com/store/product/RD-DPS5005-Communication-Function-Constant-Voltage-current-Step-down-Power-Supply-module-buck-Voltage-converter-LCD/923042_1000004290003.html?spm=2114.10010108.1000023.34.60e52798y6O98Z
+https://www.aliexpress.com/store/product/RD-DPS3005-Communication-Function-Constant-Voltage-current-Step-down-Power-Supply-module-buck-Voltage-converter-LCD/923042_1000004279003.html?spm=2114.12010108.1000023.45.22b17d70gPt70F
+
+https://github.com/kanflo/opendps
